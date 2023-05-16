@@ -1,0 +1,181 @@
+﻿
+/*SITE MASTERPAGE CSS*/
+
+.Image {
+    position: absolute;
+    width: 1480px;
+    height: 158px;
+    left: 220px;
+    top: 42px;
+}
+
+.Logo {
+    position: absolute;
+    width: 640px;
+    height: 158px;
+    left: 668px;
+    top: 42px;
+}
+
+
+.Buttons-Text {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 58px;
+    color: white;
+}
+
+.Buttons-Settings {
+    background-color: #64A1FD;
+    border-radius: 20px;
+    border-color: #64A1FD;
+    border-style: solid;
+}
+
+.Buttons-Settings:hover {
+   background-color: #1C77FF;
+}
+
+
+
+
+/* SITE MASTER ID*/
+
+#Login-Out {
+    
+    width: 170px;
+    height: 58px;
+    left: 266px;
+    top: 81px;
+}
+
+#Home {
+    
+    width: 170px;
+    height: 58px;
+    left: 472px;
+    top: 81px;
+}
+
+#Sign-Up {
+    
+    width: 170px;
+    height: 58px;
+    left: 1298px;
+    top: 80px;
+}
+
+#Login-In {
+    
+    width: 170px;
+    height: 58px;
+    left: 1500px;
+    top: 80px;
+    
+}
+
+/*WEBSITE CSS*/
+
+.Main-Text-Style {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    color: white;
+}
+
+
+.Buttons-Style {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-size: 48px;
+    font-weight: 400;
+    background-color: #64A1FD;
+    color: #D0E7F5;
+    border:none;
+    border-radius:20px;
+    text-align:center
+    
+}
+
+.Buttons-Effects-Hover:hover {
+    background-color: #1C77FF;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*WEBSITE CSS ID*/
+
+
+#Info-Block-Ac-Label {
+    position: absolute;
+    width: 442.81px;
+    height: 98.69px;
+    left: 767.07px;
+    top: 457px;
+}
+
+#Info-Block-Ac-Image {
+    position: absolute;
+    width: 1480px;
+    height: 741px;
+    left: calc(50% - 1480px/2);
+    top: 534px;
+}
+
+#Info-Block-Ac-Text {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1312px;
+    height: 475px;
+    left: 320px;
+    top: 624px;
+   
+}
+
+#info-Block-Ac-Food {
+    position: absolute;
+    width: 170px;
+    height: 65px;
+    left: 336px;
+    top: 1176px;
+}
+
+#info-Block-Ac-Toys {
+    position: absolute;
+    width: 170px;
+    height: 65px;
+    left: 665px;
+    top: 1176px;
+}
+
+#info-Block-Ac-Health {
+    position: absolute;
+    width: 170px;
+    height: 65px;
+    left: 1019px;
+    top: 1176px;
+}
+
+#info-Block-Ac-Cats {
+    position: absolute;
+    width: 170px;
+    height: 65px;
+    left: 1417px;
+    top: 1176px;
+}
